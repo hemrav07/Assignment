@@ -17,5 +17,7 @@
         <input id="Submit1" type="submit" value="submit" /></p>
     <p>
         <input id="File1" type="file" /></p>
+    <p>
+        <input id="Password1" type="password" /></p>
 </body>
 </html>
